@@ -60,7 +60,11 @@ export const Contact = () => {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground mb-1">​​​​​​​Address    </p>
-                  <p className="text-foreground font-medium">Department of Computer Science and Automation Indian Institute of Science  Bangalore, 560012 India 
+                  <p className="text-foreground font-medium">​Department of Computer Science and Automation,
+Indian Institute of Science Bangalore, 560012,
+India
+      
+      
                   <br />
                     ​<br />
                     ​
