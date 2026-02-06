@@ -17,7 +17,7 @@ export const Hero = () => {
         }} className="order-2 lg:order-1 flex justify-center lg:justify-start">
             <div className="relative">
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-accent/20 shadow-card">
-                <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face" alt="Profile photo" className="w-full h-full object-cover" />
+                <img alt="Profile photo" className="w-full h-full object-cover" src="/lovable-uploads/7d711ab5-a633-47d6-a910-e951da4ca4fd.jpg" />
               </div>
               <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-accent/10 rounded-full blur-2xl" />
             </div>
