@@ -10,7 +10,7 @@ const education = [
   },
   {
     degree: "M.Tech. in Industrial Systems Engineering",
-    institution: "University Name",
+    institution: "Indian Institute of Technology Kharagpur",
     period: "2019 – 2021",
     description: "Graduated with distinction. Thesis on attention mechanisms in neural networks.",
   },
