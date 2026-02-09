@@ -12,7 +12,7 @@ const education = [
     degree: "M.Tech. in Industrial Systems Engineering",
     institution: "Indian Institute of Technology Kharagpur",
     period: "2019 – 2021",
-    description: "Graduated with distinction. Thesis on attention mechanisms in neural networks.",
+    description: "Thesis on predictive maintenance and optimal policy selection of industrial assets: A hidden Markov model based approach.",
   },
   {
     degree: "B.Sc. in Computer Science",
