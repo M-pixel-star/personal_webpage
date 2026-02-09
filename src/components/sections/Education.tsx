@@ -15,7 +15,7 @@ const education = [
     description: "Thesis on predictive maintenance and optimal policy selection of industrial assets: A hidden Markov model based approach.",
   },
   {
-    degree: "B.Sc. in Computer Science",
+    degree: "B.Tech. in Electronics and Instrumentation Engineering",
     institution: "Kalinga Institute of Industrial Technology, Bhubaneswar",
     period: "2015 – 2019",
     description: "Thesis on implementation of cascade control for a level process.",
