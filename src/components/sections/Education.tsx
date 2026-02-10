@@ -17,7 +17,7 @@ const education = [
   {
     degree: "B.Tech. in Electronics and Instrumentation Engineering",
     institution: "Kalinga Institute of Industrial Technology, Bhubaneswar",
-    period: "2015 – 2019",
+    period: "2010 – 2014",
     description: "Thesis on implementation of cascade control for a level process.",
   },
 ];
