@@ -2,23 +2,17 @@ import { motion } from "framer-motion";
 import { ExternalLink, FileText } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 const publications = [{
-  title: "Understanding Context in Neural Language Models: A Comprehensive Analysis",
-  authors: "Your Name, Advisor Name, Collaborator Name",
-  venue: "ACL 2024",
-  type: "Conference",
-  link: "#"
-}, {
-  title: "Interpretable Attention Mechanisms for Document Classification",
-  authors: "Your Name, Co-author Name",
-  venue: "EMNLP 2023",
-  type: "Conference",
-  link: "#"
-}, {
-  title: "A Survey of Explainable AI Methods in Natural Language Processing",
-  authors: "Your Name, Advisor Name",
-  venue: "Journal of Machine Learning Research",
+  title: "Optimal risk-sensitive scheduling policies for remote estimation of autoregressive Markov processes",
+  authors: "Manali Dutta, Rahul Singh",
+  venue: "IEEE Control Systems Letters 2024",
   type: "Journal",
-  link: "#"
+  link: "https://ieeexplore.ieee.org/abstract/document/10812990"
+}, {
+  title: "Optimal scheduling policies for remote estimation of autoregressive Markov processes over time-correlated fading channel",
+  authors: "Manali Dutta, Rahul Singh",
+  venue: "IEEE CDC 2023",
+  type: "Conference",
+  link: "https://ieeexplore.ieee.org/abstract/document/10384144/"
 }];
 export const Publications = () => {
   return <section id="publications" className="section-padding">
