@@ -1,12 +1,12 @@
 import { motion } from "framer-motion";
-import { Brain, MessageSquare, Code, Lightbulb } from "lucide-react";
+import { Brain, Settings, Code, Lightbulb } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 const researchAreas = [{
   icon: Brain,
   title: "Reinforcement Learning",
   description: "Designing learning based decision making algorithms that adapt through interaction with uncertain environments."
 }, {
-  icon: MessageSquare,
+  icon: Settings,
   title: "Natural Language Processing",
   description: "Creating systems that understand context, nuance, and semantic meaning in human language."
 }, {
