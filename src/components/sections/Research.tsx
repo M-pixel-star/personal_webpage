@@ -10,13 +10,13 @@ const researchAreas = [{
   title: "Stochastic Control",
   description: "Developing optimal control strategies for systems operating under significant uncertainty and random dynamics."
 }, {
-  icon: Network,
+  icon: Globe,
   title: "Networked Control Systems",
   description: "Studying control and estimation problems in systems connected over unreliable and resource constrained networks."
 }, {
-  icon: Lightbulb,
-  title: "Human-AI Interaction",
-  description: "Studying how humans and AI systems can collaborate more effectively and intuitively."
+  icon: Shuffle,
+  title: "Marov Decision Processes",
+  description: "Developing and analyzing Markov decision process models for decision making under uncertainty."
 }];
 export const Research = () => {
   return <section id="research" className="section-padding bg-secondary/30">
