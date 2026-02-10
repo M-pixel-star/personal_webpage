@@ -51,7 +51,7 @@ export const Hero = () => {
                 </a>
               </Button>
               <Button variant="outline" asChild>
-                <a href="https://raw.githubusercontent.com/m-pixel-star/Resume/main/resume.pdf" target="_blank" rel="noopener noreferrer">
+                <a href="https://raw.githubusercontent.com/manali-dutta/Resume/main/resume.pdf" target="_blank" rel="noopener noreferrer">
                   <Download className="w-4 h-4 mr-2" />
                   Resume / CV
                 </a>
