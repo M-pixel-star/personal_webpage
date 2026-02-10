@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Brain, Settings, Network, Lightbulb } from "lucide-react";
+import { Brain, Settings, Globe, Shuffle } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 const researchAreas = [{
   icon: Brain,
@@ -10,7 +10,7 @@ const researchAreas = [{
   title: "Stochastic Control",
   description: "Developing optimal control strategies for systems operating under significant uncertainty and random dynamics."
 }, {
-  icon: Network,
+  icon: Globe,
   title: "Networked Control Systems",
   description: "Studying control and estimation problems in systems connected over unreliable and resource constrained networks."
 }, {
