@@ -8,7 +8,7 @@ const researchAreas = [{
 }, {
   icon: Settings,
   title: "Stochastic Control",
-  description: "Creating systems that understand context, nuance, and semantic meaning in human language."
+  description: "Developing optimal control strategies for systems operating under significant uncertainty and random dynamics."
 }, {
   icon: Code,
   title: "Explainable AI",
