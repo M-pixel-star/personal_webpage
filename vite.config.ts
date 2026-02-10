@@ -7,8 +7,8 @@ import { componentTagger } from "lovable-tagger";
 export default defineConfig(({ mode }) => ({
   base: mode === 'production' ? '/personal_webpage/' : '/',
   server: {
-    host: "localhost", // FIXED: Changed from "::" to "localhost"
-    port: 5173,
+    host: "::", // FIXED: Changed from "::" to "localhost"
+    port: 8080,
     hmr: {
       overlay: false,
     },
