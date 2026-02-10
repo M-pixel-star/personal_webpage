@@ -56,7 +56,7 @@ export const Hero = () => {
                   Resume / CV
                 </a>
               </Button>
-              <Button variant="ghost" asChild>
+              <Button variant="outline" asChild>
                 <a href="#publications">
                   <FileText className="w-4 h-4 mr-2" />
                   Publications
